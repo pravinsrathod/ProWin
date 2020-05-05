@@ -1,60 +1,59 @@
 {
-  "lectures": [
+  "lectures":
     {
-	"chemistry":[
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Introduction",
-	"subHeading":"intorduction to the course",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	},
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Chapter 1",
-	"subHeading":"Thermodynamics",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	},
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Chapter 2",
-	"subHeading":"Organic chemistry",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	}
-	]
-    },
-	 {
-	"Physics":[
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Introduction",
-	"subHeading":"Introduction to the course",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	},
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Chapter 1",
-	"subHeading":"Circular Motion",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	},
-	{
-	"id":"PaBkd4hujjI",
-	"heading":"Chapter 2",
-	"subHeading":"Gravitaion",
-	"isActive":1,
-	"createdDate":"05-05-2020",
-	"additionalDetails":"NA"
-	}
-	]
-    }
-  ]
+      "chemistry": [
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Introduction",
+          "subHeading": "intorduction to the course",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        },
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Chapter 1",
+          "subHeading": "Thermodynamics",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        },
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Chapter 2",
+          "subHeading": "Organic chemistry",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        }
+      ],
+      "Physics": [
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Introduction",
+          "subHeading": "Introduction to the course",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        },
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Chapter 1",
+          "subHeading": "Circular Motion",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        },
+        {
+          "createdDate": "05-05-2020",
+          "heading": "Chapter 2",
+          "subHeading": "Gravitaion",
+          "id": "PaBkd4hujjI",
+          "isActive": 1,
+          "additionalDetails": "NA"
+        }
+      ],
+  "opstatus": 0,
+  "httpStatusCode": 200
+}
 }
