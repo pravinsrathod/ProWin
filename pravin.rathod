@@ -1,0 +1,60 @@
+{
+  "SubjectWiseMarks": [
+    {
+	"chemistry":[
+	{
+	"examId":"chem1",
+	"heading":"Unit Test 1",
+	"subHeading":"intorduction to the course",
+	"examDate":"05-05-2020",
+	"score":"40",
+	"totalScore":"50",
+	},
+	{
+	"examId":"chem2",
+	"heading":"Unit Test 2",
+	"subHeading":"Thermodynamics",
+	"examDate":"05-05-2020",
+	"score":"35",
+	"totalScore":"50",
+	},
+	{
+	"examId":"chem3",
+	"heading":"Unit Test 3",
+	"subHeading":"Alkaline",
+	"examDate":"05-05-2020",
+	"score":"43",
+	"totalScore":"50",
+	}
+	]
+    },
+	 {
+	"Physics":[
+	{
+	"examId":"phy1",
+	"heading":"Unit Test 1",
+	"subHeading":"intorduction to the course",
+	"examDate":"05-05-2020",
+	"score":"40",
+	"totalScore":"50",
+	},
+	{
+	"examId":"phy2",
+	"heading":"Unit Test 2",
+	"subHeading":"circular motion",
+	"examDate":"05-05-2020",
+	"score":"34",
+	"totalScore":"50",
+	},
+	{
+	"examId":"phy3",
+	"heading":"Unit Test 3",
+	"subHeading":"Gravitaion",
+	"examDate":"05-05-2020",
+	"score":"43",
+	"totalScore":"50",
+	}
+	]
+    }
+  ]
+}
