@@ -19,15 +19,6 @@
           "isActive": 1,
 		  "image":"play.png",
           "additionalDetails": "NA"
-        },
-        {
-          "createdDate": "05-05-2020",
-          "heading": "Chapter 2",
-          "subHeading": "Organic chemistry",
-          "id": "PaBkd4hujjI",
-          "isActive": 1,
-		  "image":"play.png",
-          "additionalDetails": "NA"
         }
       ],
       "Physics": [
